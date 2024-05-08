@@ -12,7 +12,7 @@ Visit the following link: <a href="https://www.python.org/downloads/">https://ww
 `python --version`<br><br>
    1. *If succesful, you'll receive a message with the version of Python installed in your machine*
 <img src="python_v.png" width="350" height="200">
-<br><br>
+<br>
 
 ### PyCharm Installation
 Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">https://www.jetbrains.com/pycharm/download/</a><br>
