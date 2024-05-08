@@ -1,4 +1,4 @@
-# Python Fundamentals <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxNDY1ZTJocmdiODl1MTdwODllNmVldTM0YnZtOHRyaGFyc3doYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" align="right" width="50">
+# Python Fundamentals <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxNDY1ZTJocmdiODl1MTdwODllNmVldTM0YnZtOHRyaGFyc3doYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" width="30">
 
 ### Python Installation
 Visit the following link: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a><br>
@@ -12,7 +12,7 @@ Visit the following link: <a href="https://www.python.org/downloads/">https://ww
 `python --version`<br><br>
    1. *If succesful, you'll receive a message with the version of Python installed in your machine*
 <img src="python_v.png" width="350" height="200">
-<br><br><br>
+<br><br>
 
 ### PyCharm Installation
 Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">https://www.jetbrains.com/pycharm/download/</a><br>
@@ -23,6 +23,27 @@ Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">
 4. Find application and double click to open it up.
 
 ### First Python Project
+
+- Click On "New Project"
+- Edit the name of the project if necessary
+- Click on "Create"<br>
+<img src="pycharm_np.png" width="300"><img src="pycharm_rename.png" width="300"><br><br>
+- Right Click on name of the folder
+- Select "New"
+- Click on "Python File"<br>
+<img src="pycharm_f_i.png" width="400"><br>
+- Enter the name of the python file (e.g. "hello_world")
+  - The extension .py will be automatically provided
+- To prove that your environment is running correctly type the following code:<br>
+```python
+print("Hello World!")
+```
+- Right Click on the python file name, and then, click on "Run hello_world"<br>
+<img src="pycharm_l_i.png" width="400"><br>
+- If successful, the message `"Hello World!"` will be printed out to the command line.
+<br><br>
+
+### Comenting Code
 
 
 
