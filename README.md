@@ -1,4 +1,4 @@
-# Python Fundamentals <img src="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">
+# Python Fundamentals <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxNDY1ZTJocmdiODl1MTdwODllNmVldTM0YnZtOHRyaGFyc3doYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" align="right" width="50">
 
 ### Python Installation
 Visit the following link: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a><br>
