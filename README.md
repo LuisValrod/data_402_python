@@ -44,6 +44,20 @@ print("Hello World!")
 <br><br>
 
 ### Comenting Code
+- There are two ways to make comments in Python:
+  - Using "#" symbol for one-line comments
+  - Using """ """ (triple quoation marks) from multi-line comments
+```python
+# This is a one-line comment
+
+""" 
+This is
+a multi-line
+comment
+"""
+
+# ----- Multi-line comments can also use single quotation marks -> ''' '''----
+```
 
 
 
