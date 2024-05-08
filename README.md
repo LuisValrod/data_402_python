@@ -7,12 +7,13 @@ Visit the following link: <a href="https://www.python.org/downloads/">https://ww
 <img src="python_download.png" width="400"><br><br>
 2. *Double Click on the new file in the "Downloads" folder* 
 3. *Click on "**Add Python to PATH**"*
-4. *Click on "**Install Now**"* <img src="add_path.png" width="400"><br><br>
+4. *Click on "**Install Now**"*<br> <img src="add_path.png" width="400"><br><br>
 5. *Double Check that installation was succesful through going to a terminal (Powershell, Command prompt, git bash, etc) and type:*<br><br>
 `python --version`<br><br>
    1. If succesful, you'll receive a message with the version of Python installed in you machine
 <img src="python_v.png" width="350" height="200" margin-left=0>
 <br><br><br>
+
 ### PyCharm Installation
 
 
