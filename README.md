@@ -7,14 +7,22 @@ Visit the following link: <a href="https://www.python.org/downloads/">https://ww
 <img src="python_download.png" width="400"><br><br>
 2. *Double Click on the new file in the "Downloads" folder* 
 3. *Click on "**Add Python to PATH**"*
-4. *Click on "**Install Now**"*<br> <img src="add_path.png" width="400"><br><br>
+4. *Click on "**Install Now**"*<br><br> <img src="add_path.png" width="400"><br><br>
 5. *Double Check that installation was succesful through going to a terminal (Powershell, Command prompt, git bash, etc) and type:*<br><br>
 `python --version`<br><br>
-   1. If succesful, you'll receive a message with the version of Python installed in you machine
-<img src="python_v.png" width="350" height="200" margin-left=0>
+   1. *If succesful, you'll receive a message with the version of Python installed in your machine*
+<img src="python_v.png" width="350" height="200">
 <br><br><br>
 
 ### PyCharm Installation
+Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">https://www.jetbrains.com/pycharm/download/</a><br>
+1. Click on "Download".<br>**NOTE: Make sure you select "Community Edition"**<br>
+<img src="pycharm_download.png" width="400">
+2. Double Click on the new file
+3. Follow installation instructions
+4. Find application and double click to open it up.
+
+### First Python Project
 
 
 
