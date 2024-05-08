@@ -1,6 +1,6 @@
 # Python Fundamentals <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NxNDY1ZTJocmdiODl1MTdwODllNmVldTM0YnZtOHRyaGFyc3doYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/200.webp" width="30">
 
-### Python Installation
+## Python Installation
 Visit the following link: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a><br>
 
 1. *Click on the button to download Python:* <br>
@@ -14,7 +14,7 @@ Visit the following link: <a href="https://www.python.org/downloads/">https://ww
 <img src="python_v.png" width="350" height="200">
 <br>
 
-### PyCharm Installation
+## PyCharm Installation
 Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">https://www.jetbrains.com/pycharm/download/</a><br>
 1. Click on "Download".<br>**NOTE: Make sure you select "Community Edition"**<br>
 <img src="pycharm_download.png" width="400">
@@ -22,7 +22,7 @@ Visit the following link: <a href="https://www.jetbrains.com/pycharm/download/">
 3. Follow installation instructions
 4. Find application and double click to open it up.
 
-### First Python Project
+## First Python Project
 
 - Click On "New Project"
 - Edit the name of the project if necessary
@@ -43,7 +43,7 @@ print("Hello World!")
 - If successful, the message `"Hello World!"` will be printed out to the command line.
 <br><br>
 
-### Comenting Code
+## Commenting Code
 - There are two ways to make comments in Python:
   - Using "#" symbol for one-line comments
   - Using """ """ (triple quoation marks) from multi-line comments
@@ -59,7 +59,7 @@ comment
 # ----- Multi-line comments can also use single quotation marks -> ''' '''----
 ```
 
-### Data Types
+## Data Types
 There are various data types. The three main ones are
 - **Numbers**
   - Integers (Whole Numbers), i.e. 1, 128
