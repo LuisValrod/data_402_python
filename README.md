@@ -59,6 +59,26 @@ comment
 # ----- Multi-line comments can also use single quotation marks -> ''' '''----
 ```
 
+### Data Types
+There are many various data types. The three main ones are
+- **Numbers**
+  - Integers (Whole Numbers), i.e. 1, 128
+  - Floating point numbers (Decimal Numbers), i.e. 1.2, 45.79
+```python
+type(5) # int
+type(4.8) # float
+```
+- String (Characters and texts)
+```python
+type("A") # str
+type("I'm also a string") # str
+```
+- Boolean (Either True or False)
+```python
+type(True) # bool
+type(False) # bool
+```
+
 
 
 
