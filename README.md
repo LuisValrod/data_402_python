@@ -60,7 +60,7 @@ comment
 ```
 
 ### Data Types
-There are many various data types. The three main ones are
+There are various data types. The three main ones are
 - **Numbers**
   - Integers (Whole Numbers), i.e. 1, 128
   - Floating point numbers (Decimal Numbers), i.e. 1.2, 45.79
@@ -77,6 +77,47 @@ type("I'm also a string") # str
 ```python
 type(True) # bool
 type(False) # bool
+```
+<br>
+
+## Numbers and Math Operators
+- ### Addition
+The standard mathematical operation to add a number to another. Symbol: `+`
+```python
+>>>print(5 + 5)
+10
+>>>print(3.5 + 4)
+7.5
+```
+- ### Subtraction
+The standard mathematical operation to subtract one number from another. Symbol: `-`
+```python
+>>>print(10 - 6)
+4
+>>>print(5- 7.5)
+-2.5
+```
+- ### Multiplication
+The standard mathematical operation to multiply one number by another. Symbol: `*`
+```python
+>>>print(3*5)
+15
+>>>print(2.25*4)
+9.0
+```
+- ### Division
+The standard mathematical operation to divide one number by another. Symbol: `/`
+```python
+>>>print(10/5)
+2.0
+>>>print(1/4)
+0.25
+```
+- ### Modulo
+An operation that returns the remainder of a division. Symbol: `%`
+```python
+>>>print(12%5) # Since 12/5 = (2*5) + 2 (remainder)
+2
 ```
 
 
