@@ -63,7 +63,7 @@ print("\nQ2c\n")
 names = ["Alan Turing", "Leonardo Fibonacci", "Katherine Johnson", "Annie Easley", "Terence Tao"]
 
 # A2c:
-first_last_initial = [n[0] + n[-1] for n in names]
+first_last_initial = [n[0] + n[n.index(' ')+1] for n in names]
 print("Possible Answer:\n- first_last_initial = [n[0] + n[-1] for n in names]")
 print(first_last_initial)
 
