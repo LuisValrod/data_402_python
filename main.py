@@ -30,6 +30,7 @@ def game():
                 break
             else:
                 print('Sorry, that pokemon is recovering from a great battle today. Just Bulbasaur, Charmander or Squirtle are available')
+        sleep(2)
         clear_console()
         original_hp1= pokemons[p1_choice]['Stats']['hp']
         original_hp2= pokemons[p2_choice]['Stats']['hp']
